@@ -60,7 +60,7 @@ def send_message(webhook_url):
 ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒｲ 乇dﾉｲo尺ｲ乇ﾒ
  ```
  https://cdn.discordapp.com/attachments/1009902723732357202/1010966357967372420/f458cc675c965207d4a0ee81d78252bc.gif
-@everyone  https://discord.gg/4daHfJ9PR2
+@everyone  https://discord.gg/SAQ9G5H95v
 
     
   
